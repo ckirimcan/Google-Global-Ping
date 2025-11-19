@@ -120,7 +120,8 @@ def main():
     print("\n" + "="*64)
     print(f"İŞLEM TAMAM — Toplam ping denemesi: {total} | Başarılı: {ok} | Başarısız: {fail}")
     print(f"Pinglenen Google endpoint sayısı: {total}")
-    print("Başka emriniz var mıdır Batı Bey?")
+    print("Başka emriniz var mıdır ?")
 
 if __name__ == "__main__":
+
     main()
